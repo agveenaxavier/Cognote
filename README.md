@@ -1,4 +1,4 @@
-# EduVision: Simplified Lecture Notes Organizer
+# CogNote: Simplified Lecture Notes Organizer
 
 A web application that helps students organize their lecture notes by converting images to searchable text using OCR technology.
 
